@@ -1,5 +1,5 @@
 
-# 🧠 My First Projects for ZenChain Builder Program
+# 🧠 My First Projects for Developer Program
 
 This repo contains beginner-level projects I've built while learning Web2 and Web3 technologies.
 
@@ -18,4 +18,4 @@ A small Python calculator performing addition and subtraction.
 
 ## 🚀 Goal
 
-I'm learning how to build dApps and smart contracts to contribute to the ZenChain ecosystem and become a Web3 developer!
+I'm learning how to build dApps and smart contracts to contribute to the projects ecosystem and become a Web3 developer!
